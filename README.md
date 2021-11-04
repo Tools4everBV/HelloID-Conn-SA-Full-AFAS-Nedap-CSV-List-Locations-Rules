@@ -3,6 +3,12 @@
 With this HelloID Service Automation Delegated Form you can view the mapping rules from the CSV for Nedap Locations. The CSV contains rules in which AFAS Organisational Units are mapped to Nedap Locations. The following options are available:
  1. View the mapping rules
  
+## Versioning
+| Version | Description | Date |
+| - | - | - |
+| 1.0.1   | Added version number and updated all-in-one script | 2021/11/04  |
+| 1.0.0   | Initial release | 2021/09/28  |
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [Description](#description)
@@ -54,5 +60,8 @@ This Delegated Form uses the following resources in order to run
 ### Powershell data source '[powershell-datasource]_Nedap-ons-csv-nedap-location-rules-list'
 This Powershell data source retrieves the mapped rules from the configured mapping file and shows the AFAS Organisational Units with the mapped Nedap ONS locations.
 
-# HelloID Docs
+## Getting help
+_If you need help, feel free to ask questions_
+
+## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
