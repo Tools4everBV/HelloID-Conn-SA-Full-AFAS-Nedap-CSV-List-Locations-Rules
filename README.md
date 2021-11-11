@@ -61,7 +61,7 @@ This Delegated Form uses the following resources in order to run
 This Powershell data source retrieves the mapped rules from the configured mapping file and shows the AFAS Organisational Units with the mapped Nedap ONS locations.
 
 ## Getting help
-_If you need help, feel free to ask questions_
+If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/service-automation/560-helloid-sa-nedap-view-clientrange-mappings)
 
 ## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
